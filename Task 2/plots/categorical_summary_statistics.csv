@@ -1,0 +1,7 @@
+Feature,Unique_Values,Top_Category,Top_Frequency,Top_Percentage,Missing_Count,Missing_Pct
+Sex,2,male,565,63.41,0,0.0
+Embarked,3,S,614,68.91,2,0.22
+AgeGroup,5,Adult,315,35.35,178,19.98
+FareGroup,4,Low,223,25.03,0,0.0
+IsAlone,2,1,483,54.21,0,0.0
+Pclass,3,3,485,54.43,0,0.0
